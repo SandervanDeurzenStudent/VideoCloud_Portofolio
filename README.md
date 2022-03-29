@@ -1,6 +1,6 @@
 # VideoCloud
 
-<h1 id="top">----------- PORTOFOLIO ---------------</h2>
+<h1 id="top">---------------------------- PORTOFOLIO -----------------------------</h2>
  
 
 # introductie
