@@ -13,7 +13,7 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 <h2 id="top">1. Onderzoek 1: XSS</h2>
 
 <h3 id="top">Introductie</h3>
-Wat is Cross Site Scripting?
+<h4> Wat is Cross Site Scripting? </h4>
 Cross Side Scripting is de naam van een fout in de beveiliging van een webapplicatie. Het probleem wordt veroorzaakt doordat de invoer die de webapplicatie ontvangt (zoals cookie, url, request parameters) niet juist wordt verwerkt en hierdoor in de uitvoer terechtkomt naar de eindgebruiker. Via deze bug in de website kan er kwaadaardige code (JavaScript, VBScript, ActiveX, HTML, Flash etc.) geïnjecteerd worden. Hiermee kunnen onder meer sessiecookies worden bekeken, sessie van een gebruiker worden overgenomen, functionaliteit van een website worden verrijkt of onbedoelde acties voor een gebruiker worden uitgevoerd. https://nl.wikipedia.org/wiki/Cross-site_scripting
 
 Met een XSS aanval kan je kleine aanvallen doen, zoals de kleur van je website achtergrond aanpassen of een javascript alert creëren, alleen kan je ook met XSS aanvallen iemand zijn database platleggen doormiddel van 1 query in een tekstveld. Dat maakt het super belangrijk om hier beveiligd voor te zijn. En daaruit komt de vraag: 
