@@ -19,11 +19,15 @@ Cross Side Scripting is de naam van een fout in de beveiliging van een webapplic
 Met een XSS aanval kan je kleine aanvallen doen, zoals de kleur van je website achtergrond aanpassen of een javascript alert creëren, alleen kan je ook met XSS aanvallen iemand zijn database platleggen doormiddel van 1 query in een tekstveld. Dat maakt het super belangrijk om hier beveiligd voor te zijn. En daaruit komt de vraag: 
 Hoe kan ik mijn website beveiligen tegenover XSS aanvallen? 
 <h3 id="top">Soorten XSS</h3>
+<li>
+ <ul> -Reflected XSS Attack:
+Stored XSS also known as persistent XSS occurs when user input is stored on the target server such as database/message forum/comment field etc. Then the victim is able to retrieve the stored data from the web application.</ul>
+ <ul> - Stored XSS Attack:
+ Stored XSS also known as persistent XSS occurs when user input is stored on the target server such as database/message forum/comment field etc. Then the victim is able to retrieve the stored data from the web application. </ul>
+<li>
 Als je over XSS spreekt, spreek je niet gelijk over een algemeen onderwerp. We spreken van 3 verschillende soorten XSS aanvallen;
--Reflected XSS Attack:
-Stored XSS also known as persistent XSS occurs when user input is stored on the target server such as database/message forum/comment field etc. Then the victim is able to retrieve the stored data from the web application.
-- Stored XSS Attack:
- Stored XSS also known as persistent XSS occurs when user input is stored on the target server such as database/message forum/comment field etc. Then the victim is able to retrieve the stored data from the web application.
+
+
 - DOM Based XSS Attack: 
 DOM Based XSS is a form of XSS when the source of the data is in the DOM, the sink is also in the DOM, and the data flow never leaves the browser.
 Wat kan ik tegen een XSS Doen?
