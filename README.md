@@ -29,9 +29,10 @@ Stored XSS also known as persistent XSS occurs when user input is stored on the 
 
 <li> DOM Based XSS Attack: 
 DOM Based XSS is a form of XSS when the source of the data is in the DOM, the sink is also in the DOM, and the data flow never leaves the browser.
-Wat kan ik tegen een XSS Doen?
- 
- </li>
+</li>
+<h4> 
+ Wat kan ik tegen een XSS Doen?
+</h4>
 Gelukkig is Cross side scripting makkelijk te beveiligen. Populaire webframeworks zoals Laravel heeft ingebouwde beveiliging tegenover XSS aanvallen. 
 -  Alle niet vertrouwde gegevens op basis van de HTML-Context, attribuut, Javascript, CSS of URL waarin de gegevens zijn geplaatst moeten uitgefilterd worden
  
