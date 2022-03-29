@@ -20,19 +20,22 @@ Met een XSS aanval kan je kleine aanvallen doen, zoals de kleur van je website a
 Hoe kan ik mijn website beveiligen tegenover XSS aanvallen? 
 <h3 id="top">Soorten XSS</h3>
  
-<li>
-Als je over XSS spreekt, spreek je niet gelijk over een algemeen onderwerp. We spreken van 3 verschillende soorten XSS aanvallen;
+ Als je over XSS spreekt, spreek je niet gelijk over een algemeen onderwerp. We spreken van 3 verschillende soorten XSS aanvallen;
  
--Reflected XSS Attack:
+<li>   Reflected XSS Attack:
 Stored XSS also known as persistent XSS occurs when user input is stored on the target server such as database/message forum/comment field etc. Then the victim is able to retrieve the stored data from the web application.</ul>
-  - Stored XSS Attack:
+<li>  Stored XSS Attack:
  Stored XSS also known as persistent XSS occurs when user input is stored on the target server such as database/message forum/comment field etc. Then the victim is able to retrieve the stored data from the web application. </ul>
 
-- DOM Based XSS Attack: 
+<li> DOM Based XSS Attack: 
 DOM Based XSS is a form of XSS when the source of the data is in the DOM, the sink is also in the DOM, and the data flow never leaves the browser.
 Wat kan ik tegen een XSS Doen?
+ 
+ </li>
 Gelukkig is Cross side scripting makkelijk te beveiligen. Populaire webframeworks zoals Laravel heeft ingebouwde beveiliging tegenover XSS aanvallen. 
 -  Alle niet vertrouwde gegevens op basis van de HTML-Context, attribuut, Javascript, CSS of URL waarin de gegevens zijn geplaatst moeten uitgefilterd worden
+ 
+ 
 <h3 id="top">Conclusie</h3>
 Een XSS aanval wordt weinig aandacht aan gegeven bij beginnende ontwikkelaars terwijl  die aanvallen cruciaal kunnen zijn voor hun webapplicaties.
 
