@@ -8,8 +8,9 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 
 
 <h2 id="top">Inhoudsopgave ReadMe VideoCloud-documentatie</h2>
+1: Onderzoek 1: XSS
 
-<h2 id="top">1.Onderzoek 1: XSS</h2>
+<h2 id="top">1. Onderzoek 1: XSS</h2>
 
 <h3 id="top">Introductie</h3>
 Wat is Cross Site Scripting?
