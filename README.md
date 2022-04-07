@@ -40,6 +40,9 @@ Gelukkig is Cross side scripting makkelijk te beveiligen. Populaire webframework
 <h3 id="top">Conclusie</h3>
 Een XSS aanval wordt weinig aandacht aan gegeven bij beginnende ontwikkelaars terwijl  die aanvallen cruciaal kunnen zijn voor hun webapplicaties.
 
+
+
+<h2>Ontwerpen</h2>
 __________________________________________________________________
 <h3>Conceptueel model(in the work)</h3>
 (https://user-images.githubusercontent.com/73832880/161519346-5d78ed71-e2a0-4846-9ac1-61ec9b08a6d5.jpg)
