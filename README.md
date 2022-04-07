@@ -13,7 +13,7 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 
 
 <h2>1. Onderzoek Research</h2>
-[a link] (https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/S3-Research_XSS.docx)
+[link] (https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/S3-Research_XSS.docx)
 <h2>2. Ontwerpen</h2>
 
 <h3>Conceptueel model(in the work)</h3>
