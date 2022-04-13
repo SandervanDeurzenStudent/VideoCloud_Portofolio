@@ -67,16 +67,15 @@ _Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of E
 
 1. You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using  **multiple types of test techniques**.
 
-| _ **Clarification:** __**Multiple types of test techniques:**__  You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance._ |
-| --- |
+ **Clarification:** __**Multiple types of test techniques:**__  You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
+
 
 2. You analyze and describe  **simple**  business processes that are  **related**  to your project.
 
-| **Clarification** : **Simple** : Involving stakeholders, predominantly sequential processes with one or two alternative paths. **Related** :Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them). orBusiness processes needed for the success of your software development project (e.g., product release, market release, financial assurance). |
-| --- |
+**Clarification** : **Simple** : Involving stakeholders, predominantly sequential processes with one or two alternative paths. **Related** :Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them). orBusiness processes needed for the success of your software development project (e.g., product release, market release, financial assurance). 
 
-3. You act in a  **professional manner**  during software development and learning.
 
-| **Clarification:**** Professional manner: **You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
-You choose and substantiate solutions for a given problem. |
-| --- |
+<h3>3. You act in a  **professional manner**  during software development and learning.</h3>
+
+ **Clarification:**** Professional manner: **You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
+You choose and substantiate solutions for a given problem. 
