@@ -8,12 +8,9 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 
 
 <h2 id="top">Inhoudsopgave ReadMe VideoCloud-documentatie</h2>
-1: Onderzoek 1: XSS
 2: Ontwerpen
 
 
-<h2>1. Onderzoek Research</h2>
-[link] (https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/S3-Research_XSS.docx)
 <h2>2. Ontwerpen</h2>
 
 <h3>Conceptueel model(in the work)</h3>
