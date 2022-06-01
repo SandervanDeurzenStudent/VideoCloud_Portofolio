@@ -57,7 +57,8 @@ For this learning outcome I made some unit and integration tests. This will veri
 
 Integration tests
 
-IMAGE
+![productControllertestsJPG](https://user-images.githubusercontent.com/73832880/171404379-19d5b2cd-3c5e-421b-b315-1630a234a7ff.JPG)
+
 
 unit tests
 
@@ -66,22 +67,29 @@ Image
 ### 2. Testing with H2 database
 A good reason to use an H2 database is because it can be configured to run as in-memory database. The benefits of this are that it can create a clean database, execute unit tests and then delete the database very fast. If you would create and delete a physical database at each build it would consume much time. On the images below you can see that i setup some properties and that i run the unit tests with the H2 database. Also the tests run very fast.
 
-Configuration of the H2 database
+Configuration of the H2 database:
 
-IMAGE
-![image](https://imgur.com/7JSNiUd)
+Properties
+![testdatabase_properties](https://user-images.githubusercontent.com/73832880/171404078-d6d84e7a-4c25-443a-be69-43530e57e11f.JPG)
+
+Database insert
+![database_insert_test](https://user-images.githubusercontent.com/73832880/171404102-a41edcec-f10e-4ca7-8960-b8b63d3e4b4a.JPG)
+
 
 Testing with H2 database
 
-IMAGE
+![productControllertestsJPG](https://user-images.githubusercontent.com/73832880/171402420-27b30788-1d76-4621-b90c-442714339fb6.JPG)
+
 
 ### 3. Code reviews
 My project uses the github workflow Sonarcloud. On every push Sonarcloud fully scans my code for errors, typing mystakes and vulnuralbilties in my code.
 
-IMAGE
+![sonarcloud](https://user-images.githubusercontent.com/73832880/171404141-331a828b-a0ea-4914-917b-7e7587d72af1.png)
+
 
 ## 3. Agile Method
 
+![Trello](https://user-images.githubusercontent.com/73832880/171404156-8d70eb2d-52a0-4572-bd14-031f62f39563.png)
 
 
 ## 4. CI/CD
@@ -91,13 +99,18 @@ Docker allows developers to make lightweight containers of their application tha
 
 
  docker container 
-IMAGE
+![DockerContainers](https://user-images.githubusercontent.com/73832880/171404191-8f0ca376-d4eb-4f15-ae36-935fb3d14014.JPG)
+
+Docker images
+![DockerImages](https://user-images.githubusercontent.com/73832880/171404264-3d343cc3-ab7a-4165-958b-0b5650dff166.JPG)
+
 
 My Backend, Frontend and database are running in docker containers. This is configurated by a .yaml file as seen below.
 
 docker-compose.yaml
 
-IMAGE
+![compose_yaml](https://user-images.githubusercontent.com/73832880/171404230-74161da8-40a6-402f-b004-d2498c88fdb7.png)
+
 
 
 ### 2. automatic testing
