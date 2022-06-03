@@ -146,6 +146,20 @@ Github Workflows for CI and CD
 
 ##  6. Requirements and Design
 
+
+Requirement documents
+
+![RequirementsJPG](https://user-images.githubusercontent.com/73832880/171811065-34c3a98c-74d3-46a5-b4df-24190963b0e2.JPG)
+
+Requirements Piada
+
+![Piada_userstories](https://user-images.githubusercontent.com/73832880/171812203-60237c05-a8e1-4d1a-b072-580061738972.jpg)
+
+Database model 
+
+![piada_database](https://user-images.githubusercontent.com/73832880/171812105-82ee2a77-871a-4206-941a-45bd50861a08.jpg)
+
+
 ## 7. Business processes
 
 ## 8. Professional
