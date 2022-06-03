@@ -162,16 +162,16 @@ Trelloboard
 Here below you can find the links to my research documents.
 
 **Research XSS:**
-[research_XSS]([XSS](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP-Research_XSS.docx))
+[research_XSS](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP-Research_XSS.docx)
 **Research API:**
-[research]([research](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP_Research_API.docx))
+[research](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP_Research_API.docx)
 
 Here below you can find the links to my Git repositories.
 
 **Front end :**
-[frontend]([Front end](https://github.com/SandervanDeurzenStudent/s3-videoCloud_FrontEnd))
+[frontend](https://github.com/SandervanDeurzenStudent/s3-videoCloud_FrontEnd)
 **Backend:**
-[backend]([Backend](https://github.com/SandervanDeurzenStudent/VideoCloud_backend))
+[backend](https://github.com/SandervanDeurzenStudent/VideoCloud_backend)
 
 
 
