@@ -94,7 +94,7 @@ Testing with H2 database
 
 
 ### 3. Code reviews
-My project uses the github workflow Sonarcloud. On every push Sonarcloud fully scans my code for errors, typing mystakes and vulnuralbilties in my code.
+My project uses the github workflow Sonarcloud. On every push Sonarcloud fully scans my code for errors, typing mistakes and vulnerabilities in my code.
 
 ![sonarcloud](https://user-images.githubusercontent.com/73832880/171404141-331a828b-a0ea-4914-917b-7e7587d72af1.png)
 
