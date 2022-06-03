@@ -99,9 +99,11 @@ Docker allows developers to make lightweight containers of their application tha
 
 
  docker container 
+ 
 ![DockerContainers](https://user-images.githubusercontent.com/73832880/171404191-8f0ca376-d4eb-4f15-ae36-935fb3d14014.JPG)
 
 Docker images
+
 ![DockerImages](https://user-images.githubusercontent.com/73832880/171404264-3d343cc3-ab7a-4165-958b-0b5650dff166.JPG)
 
 
@@ -117,9 +119,16 @@ docker-compose.yaml
 
 By making tests you can check if everything works as it's supposed to, Therefore it might be a good idea to run those test everytime you make a change, as in a push. The code below ensures that with every push to the master branch, every test gets run.
 
-tests.yaml
+maven.yaml
 
-IMAGE
+![mavenyaml](https://user-images.githubusercontent.com/73832880/171806833-17507762-d140-4ed3-8b02-90f4510ac7fd.JPG)
+
+
+Github Workflows for CI and CD
+
+![workflows_github](https://user-images.githubusercontent.com/73832880/171806983-fa7448de-9d35-4321-9a88-787f267ba9ac.JPG)
+
+
 
 ## 5. Cultural differences
 
