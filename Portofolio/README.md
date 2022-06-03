@@ -80,9 +80,11 @@ A good reason to use an H2 database is because it can be configured to run as in
 Configuration of the H2 database:
 
 Properties
+
 ![testdatabase_properties](https://user-images.githubusercontent.com/73832880/171404078-d6d84e7a-4c25-443a-be69-43530e57e11f.JPG)
 
-Database insert
+H2 test Database insert
+
 ![database_insert_test](https://user-images.githubusercontent.com/73832880/171404102-a41edcec-f10e-4ca7-8960-b8b63d3e4b4a.JPG)
 
 
