@@ -3,12 +3,16 @@
 <h1 id="top">------------------------ PORTOFOLIO --------------------------</h2>
  
 
-# introductie
+# introduction
+### Individual project
 In dit project wil ik een online platform maken waarin gebruikers media van andere gebruikers kunnen beluisteren en zelf ook media kunnen oploaden. Deze media zal alleen muziek zijn. Het doel is om hiermee aan te tonen dat ik kan laten zien dat ik begrijp hoe een JavaScript front-end werkt, dat ik dit kan combineren met een OO gebaseerde back-end taal en dat de software gedistribueerd is zodat het een grote hoeveelheid aan gebruikers tevreden kan stellen. Om dit proces voor de gebruiker zo snel en efficiënt mogelijk te maken zal er gebruik worden gemaakt van asynchrone communicatie om te voorkomen dat een gebruiker lang moet wachten. In combinatie van een intuïtieve UX moet dit ervoor zorgen dat de gebruikservaring van de website zo optimaal mogelijk is. De data van de gebruiker zal opgeslagen worden in een relationele database. Aangezien dit gevoelige informatie is zal er gekeken moeten worden naar verschillende beveiligingsopties om de data van de gebruiker te kunnen beschermen.
 
+### Group project
 
-# Leeruitkomsten
 
+
+
+# Learning outcomes
 
 
 1. You design and build **user-friendly**, **full-stack** web applications.
@@ -93,7 +97,7 @@ Testing with H2 database
 ![productControllertestsJPG](https://user-images.githubusercontent.com/73832880/171402420-27b30788-1d76-4621-b90c-442714339fb6.JPG)
 
 
-### 3. Code reviews
+### 3. Code scans
 My project uses the github workflow Sonarcloud. On every push Sonarcloud fully scans my code for errors, typing mistakes and vulnerabilities in my code.
 
 ![sonarcloud](https://user-images.githubusercontent.com/73832880/171404141-331a828b-a0ea-4914-917b-7e7587d72af1.png)
@@ -102,6 +106,12 @@ My project uses the github workflow Sonarcloud. On every push Sonarcloud fully s
 ## 3. Agile Method
 
 ![Trello](https://user-images.githubusercontent.com/73832880/171404156-8d70eb2d-52a0-4572-bd14-031f62f39563.png)
+
+
+user story
+
+![image](https://user-images.githubusercontent.com/73832880/171827420-08b33c91-4ca7-4730-b8dc-e0e433032e71.png)
+
 
 
 ## 4. CI/CD
@@ -183,5 +193,17 @@ Here below you can find the links to my Git repositories.
 [frontend](https://github.com/SandervanDeurzenStudent/s3-videoCloud_FrontEnd)
 [backend](https://github.com/SandervanDeurzenStudent/VideoCloud_backend)
 
+### 3. Git flow
 
+In my project I use the git flow in my source control. The workflow is great for a release-based software workflow.
 
+Branches:
+
+- A main branch is created
+- A develop branch is created from main
+- Feature branches are created from develop
+- When a feature is complete it is merged into the develop branch using Pull Request
+- Closing the used feature branch
+- When the development branch is done it is merged into main using Pull Request
+
+![Gitkraken_flow](https://user-images.githubusercontent.com/73832880/171828743-8cf2aedd-df84-4819-ae63-42b1f0078926.JPG)
