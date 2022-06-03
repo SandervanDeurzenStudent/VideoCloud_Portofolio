@@ -150,19 +150,28 @@ Github Workflows for CI and CD
 
 ## 8. Professional
 
+### 1. trelloboard
+I chose to make a trelloboard to keep track of al my progression this sprint in my user stories. Every sprint the trelloboard gets updated.
 
+Trelloboard
 
-# Links
+![Trello_individidueel](https://user-images.githubusercontent.com/73832880/171808826-3bcf451c-cc34-4b5f-adbe-5de2793dda6c.JPG)
+
+### 2. Research documents
+
 Here below you can find the links to my research documents.
 
 **Research XSS:**
-[research_XSS](www.google.com)
-**Research:**
-[research](www.google.com)
+[research_XSS]([XSS](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP-Research_XSS.docx))
+**Research API:**
+[research]([research](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP_Research_API.docx))
 
 Here below you can find the links to my Git repositories.
 
-**Research XSS:**
-[research_XSS](www.google.com)
-**Research:**
-[research](www.google.com)
+**Front end :**
+[frontend]([Front end](https://github.com/SandervanDeurzenStudent/s3-videoCloud_FrontEnd))
+**Backend:**
+[backend]([Backend](https://github.com/SandervanDeurzenStudent/VideoCloud_backend))
+
+
+
