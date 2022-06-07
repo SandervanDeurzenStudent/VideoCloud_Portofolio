@@ -159,6 +159,10 @@ Github Workflows for CI and CD
 
 ## 5. Cultural differences
 
+TICT
+![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
+
+
 ##  6. Requirements and Design
 
 
