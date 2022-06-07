@@ -76,7 +76,8 @@ Integration tests
 
 unit tests
 
-Image
+![unitTests](https://user-images.githubusercontent.com/73832880/172367686-05295f9a-c0eb-4bd2-8722-d61510045393.JPG)
+
 
 ### 2. Testing with H2 database
 A good reason to use an H2 database is because it can be configured to run as in-memory database. The benefits of this are that it can create a clean database, execute unit tests and then delete the database very fast. If you would create and delete a physical database at each build it would consume much time. On the images below you can see that i setup some properties and that i run the unit tests with the H2 database. Also the tests run very fast.
@@ -105,9 +106,14 @@ My project uses the github workflow Sonarcloud. On every push Sonarcloud fully s
 
 ## 3. Agile Method
 
+
+***Agile methods or Agile processes generally promote a disciplined project management process that encourages frequent inspection and adaptation, a leadership philosophy that encourages teamwork, self-organization and accountability, a set of engineering best practices intended to allow for rapid delivery of high-quality software, and a business approach that aligns development with customer needs and company goals.*** https://www.cprime.com/resources/what-is-agile-what-is-scrum/#:~:text=Agile%20methods%20or%20Agile%20processes,rapid%20delivery%20of%20high%2Dquality
+
+To work as efficient as possible in our group, we made sure to keep our proces and tasks on a scrumboard. We used a trelloboard to help us with that as you can see below. 
+
 ![Trello](https://user-images.githubusercontent.com/73832880/171404156-8d70eb2d-52a0-4572-bd14-031f62f39563.png)
 
-
+Our user stories that we set up this project consist out of multiple properties. As you can see below the user story contains a timestamp, labels, checklists and members connected to it. This way we can see well-organized what the user stories are and which tasks everyone is working on.
 user story
 
 ![image](https://user-images.githubusercontent.com/73832880/171827420-08b33c91-4ca7-4730-b8dc-e0e433032e71.png)
