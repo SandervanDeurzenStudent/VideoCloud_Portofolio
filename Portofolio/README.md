@@ -3,12 +3,16 @@
 <h1 id="top">------------------------ PORTOFOLIO --------------------------</h2>
  
 
-# introductie
+# introduction
+### Individual project
 In dit project wil ik een online platform maken waarin gebruikers media van andere gebruikers kunnen beluisteren en zelf ook media kunnen oploaden. Deze media zal alleen muziek zijn. Het doel is om hiermee aan te tonen dat ik kan laten zien dat ik begrijp hoe een JavaScript front-end werkt, dat ik dit kan combineren met een OO gebaseerde back-end taal en dat de software gedistribueerd is zodat het een grote hoeveelheid aan gebruikers tevreden kan stellen. Om dit proces voor de gebruiker zo snel en efficiënt mogelijk te maken zal er gebruik worden gemaakt van asynchrone communicatie om te voorkomen dat een gebruiker lang moet wachten. In combinatie van een intuïtieve UX moet dit ervoor zorgen dat de gebruikservaring van de website zo optimaal mogelijk is. De data van de gebruiker zal opgeslagen worden in een relationele database. Aangezien dit gevoelige informatie is zal er gekeken moeten worden naar verschillende beveiligingsopties om de data van de gebruiker te kunnen beschermen.
 
+### Group project
 
-# Leeruitkomsten
 
+
+
+# Learning outcomes
 
 
 1. You design and build **user-friendly**, **full-stack** web applications.
@@ -40,7 +44,17 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 **1. User with comment list**
 I made a users page where the application calls the GetAllUsers() and getCommentsByUser() method and then proceeds to map all the users into rows. As seen below.
 
-IMAGE
+![website_users](https://user-images.githubusercontent.com/73832880/171807355-f0c099b5-179d-4760-bba4-a0efd750e124.JPG)
+
+As you can see below, the backend recieves APi calls and processes it into actions.
+
+UserController.java
+
+![java_usercontrollerl](https://user-images.githubusercontent.com/73832880/171807701-4f9e4766-d18f-48c3-b3a2-865954d3ae8d.JPG)
+
+Postman users api call
+
+![musics_postman](https://user-images.githubusercontent.com/73832880/171807830-681119d0-6392-4341-b122-77cfcf7f34c1.JPG)
 
  ## 2. Software quality
 
@@ -57,30 +71,51 @@ For this learning outcome I made some unit and integration tests. This will veri
 
 Integration tests
 
-IMAGE
+![productControllertestsJPG](https://user-images.githubusercontent.com/73832880/171404379-19d5b2cd-3c5e-421b-b315-1630a234a7ff.JPG)
+
 
 unit tests
 
-Image
+![unitTests](https://user-images.githubusercontent.com/73832880/172367686-05295f9a-c0eb-4bd2-8722-d61510045393.JPG)
+
 
 ### 2. Testing with H2 database
 A good reason to use an H2 database is because it can be configured to run as in-memory database. The benefits of this are that it can create a clean database, execute unit tests and then delete the database very fast. If you would create and delete a physical database at each build it would consume much time. On the images below you can see that i setup some properties and that i run the unit tests with the H2 database. Also the tests run very fast.
 
-Configuration of the H2 database
+Configuration of the H2 database:
 
-IMAGE
-![image](https://imgur.com/7JSNiUd)
+Properties
+
+![testdatabase_properties](https://user-images.githubusercontent.com/73832880/171404078-d6d84e7a-4c25-443a-be69-43530e57e11f.JPG)
+
+H2 test Database insert
+
+![database_insert_test](https://user-images.githubusercontent.com/73832880/171404102-a41edcec-f10e-4ca7-8960-b8b63d3e4b4a.JPG)
+
 
 Testing with H2 database
 
-IMAGE
+![productControllertestsJPG](https://user-images.githubusercontent.com/73832880/171402420-27b30788-1d76-4621-b90c-442714339fb6.JPG)
 
-### 3. Code reviews
-My project uses the github workflow Sonarcloud. On every push Sonarcloud fully scans my code for errors, typing mystakes and vulnuralbilties in my code.
 
-IMAGE
+### 3. Code scans
+My project uses the github workflow Sonarcloud. On every push Sonarcloud fully scans my code for errors, typing mistakes and vulnerabilities in my code.
+
+![sonarcloud](https://user-images.githubusercontent.com/73832880/171404141-331a828b-a0ea-4914-917b-7e7587d72af1.png)
+
 
 ## 3. Agile Method
+
+
+***"Agile methods or Agile processes generally promote a disciplined project management process that encourages frequent inspection and adaptation, a leadership philosophy that encourages teamwork, self-organization and accountability, a set of engineering best practices intended to allow for rapid delivery of high-quality software, and a business approach that aligns development with customer needs and company goals."*** https://www.cprime.com/resources/what-is-agile-what-is-scrum/#:~:text=Agile%20methods%20or%20Agile%20processes,rapid%20delivery%20of%20high%2Dquality
+
+To work as efficient as possible in our group, we made sure to keep our proces and tasks on a scrumboard. We used a trelloboard to help us with that as you can see below. 
+
+![Trello](https://user-images.githubusercontent.com/73832880/171404156-8d70eb2d-52a0-4572-bd14-031f62f39563.png)
+
+Our user stories that we set up this project consist out of multiple properties. As you can see below the user story contains a timestamp, labels, checklists and members connected to it. This way we can see well-organized what the user stories are and which tasks everyone is working on.
+
+![image](https://user-images.githubusercontent.com/73832880/171827420-08b33c91-4ca7-4730-b8dc-e0e433032e71.png)
 
 
 
@@ -91,44 +126,93 @@ Docker allows developers to make lightweight containers of their application tha
 
 
  docker container 
-IMAGE
+ 
+![DockerContainers](https://user-images.githubusercontent.com/73832880/171404191-8f0ca376-d4eb-4f15-ae36-935fb3d14014.JPG)
+
+Docker images
+
+![DockerImages](https://user-images.githubusercontent.com/73832880/171404264-3d343cc3-ab7a-4165-958b-0b5650dff166.JPG)
+
 
 My Backend, Frontend and database are running in docker containers. This is configurated by a .yaml file as seen below.
 
 docker-compose.yaml
 
-IMAGE
+![compose_yaml](https://user-images.githubusercontent.com/73832880/171404230-74161da8-40a6-402f-b004-d2498c88fdb7.png)
+
 
 
 ### 2. automatic testing
 
 By making tests you can check if everything works as it's supposed to, Therefore it might be a good idea to run those test everytime you make a change, as in a push. The code below ensures that with every push to the master branch, every test gets run.
 
-tests.yaml
+maven.yaml
 
-IMAGE
+![mavenyaml](https://user-images.githubusercontent.com/73832880/171806833-17507762-d140-4ed3-8b02-90f4510ac7fd.JPG)
+
+
+Github Workflows for CI and CD
+
+![workflows_github](https://user-images.githubusercontent.com/73832880/171806983-fa7448de-9d35-4321-9a88-787f267ba9ac.JPG)
+
+
 
 ## 5. Cultural differences
 
+TICT
+![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
+
+
 ##  6. Requirements and Design
+
+
+Requirement documents
+
+![RequirementsJPG](https://user-images.githubusercontent.com/73832880/171811065-34c3a98c-74d3-46a5-b4df-24190963b0e2.JPG)
+
+Requirements Piada
+
+![Piada_userstories](https://user-images.githubusercontent.com/73832880/171812203-60237c05-a8e1-4d1a-b072-580061738972.jpg)
+
+Database model 
+
+![piada_database](https://user-images.githubusercontent.com/73832880/171812105-82ee2a77-871a-4206-941a-45bd50861a08.jpg)
+
 
 ## 7. Business processes
 
 ## 8. Professional
 
+### 1. trelloboard
+I chose to make a trelloboard to keep track of al my progression this sprint in my user stories. Every sprint the trelloboard gets updated.
 
+Trelloboard
 
-# Links
+![Trello_individidueel](https://user-images.githubusercontent.com/73832880/171808826-3bcf451c-cc34-4b5f-adbe-5de2793dda6c.JPG)
+
+### 2. Research documents
+
 Here below you can find the links to my research documents.
 
-**Research XSS:**
-[research_XSS](www.google.com)
-**Research:**
-[research](www.google.com)
+[research_XSS](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP-Research_XSS.docx)
+[research](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP_Research_API.docx)
 
 Here below you can find the links to my Git repositories.
 
-**Research XSS:**
-[research_XSS](www.google.com)
-**Research:**
-[research](www.google.com)
+[frontend](https://github.com/SandervanDeurzenStudent/s3-videoCloud_FrontEnd)
+[backend](https://github.com/SandervanDeurzenStudent/VideoCloud_backend)
+
+### 3. Git flow
+
+In my project I use the git flow in my source control. The workflow is great for a release-based software workflow.
+
+Branches:
+
+- A main branch is created
+- A develop branch is created from main
+- Feature branches are created from develop
+- When a feature is complete it is merged into the develop branch using Pull Request
+- Closing the used feature branch
+- When the development branch is done it is merged into main using Pull Request
+
+![Gitkraken_flow](https://user-images.githubusercontent.com/73832880/171828743-8cf2aedd-df84-4819-ae63-42b1f0078926.JPG)
