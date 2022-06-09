@@ -106,6 +106,10 @@ My project uses the github workflow Sonarcloud. On every push Sonarcloud fully s
 
 ## 3. Agile Method
 
+**_ Clarification:_**
+**_Choose :You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.**_
+
+
 
 ***"Agile methods or Agile processes generally promote a disciplined project management process that encourages frequent inspection and adaptation, a leadership philosophy that encourages teamwork, self-organization and accountability, a set of engineering best practices intended to allow for rapid delivery of high-quality software, and a business approach that aligns development with customer needs and company goals."*** https://www.cprime.com/resources/what-is-agile-what-is-scrum/#:~:text=Agile%20methods%20or%20Agile%20processes,rapid%20delivery%20of%20high%2Dquality
 
@@ -120,6 +124,10 @@ Our user stories that we set up this project consist out of multiple properties.
 
 
 ## 4. CI/CD
+
+**_Clarification:
+Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
+_**
 
 ### 1. docker
 Docker allows developers to make lightweight containers of their application that can be run virtually anywhere. I use a Github workflow package called Docker Publish which automaticly creates images on pushes to master. 
@@ -159,11 +167,20 @@ Github Workflows for CI and CD
 
 ## 5. Cultural differences
 
+**_Clarifications:
+Recognize:  Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
+Take into account:
+Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
+
+
 TICT
 ![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
 
 
 ##  6. Requirements and Design
+
+*__Clarification:
+Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
 
 Requirement documents
@@ -181,7 +198,22 @@ Database model
 
 ## 7. Business processes
 
+**_Clarification:
+Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
+Related:
+Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them). 
+or
+Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
+
+
 ## 8. Professional
+
+**_Clarification:_**
+
+**_Professional manner:_**
+
+**_You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
+You choose and substantiate solutions for a given problem. _**
 
 ### 1. trelloboard
 I chose to make a trelloboard to keep track of al my progression this sprint in my user stories. Every sprint the trelloboard gets updated.
