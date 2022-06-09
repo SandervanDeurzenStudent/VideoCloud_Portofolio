@@ -235,12 +235,24 @@ Trelloboard
 Here below you can find the links to my research documents.
 
 [research_XSS](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP-Research_XSS.docx)
-[research](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP_Research_API.docx)
+
+[research H2 Databases](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_research_h2database.docx)
+
+[mini research: APi's](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_research_API.docx)
 
 Here below you can find the links to my Git repositories.
 
-[frontend](https://github.com/SandervanDeurzenStudent/s3-videoCloud_FrontEnd)
-[backend](https://github.com/SandervanDeurzenStudent/VideoCloud_backend)
+Individual Project:
+
+[IP-frontend](https://github.com/SandervanDeurzenStudent/s3-videoCloud_FrontEnd)
+
+[IP-backend](https://github.com/SandervanDeurzenStudent/VideoCloud_backend)
+
+Group Project:
+
+[GP-frontend](https://github.com/RensvGemert/S3-GP-Frontend)
+
+[GP-backend](https://github.com/RensvGemert/S3-GP-Backend)
 
 ### 3. Git flow
 
