@@ -93,6 +93,18 @@ or
 Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
 
+### 7.1. What is an business process?
+><i>A business process is defined as a collection of business tasks and activities that when performed by people or systems in a structured course, produce an outcome that contributes to the business goals</i>
+ 
+[www.processeology.com](https://blog.processology.net/what-is-a-business-process#what-is-a-business-process)
+ 
+### 7.2. How does an business process work?
+
+Here is an example of a process of making a custome for a website that I am working on. 
+
+![businessprocess](https://user-images.githubusercontent.com/73832880/173385358-6124a6c5-0317-4f11-a8ff-cb24ba8c7bd8.JPG)
+
+
 ## 8. Professional
 
 **_Clarification:_**
