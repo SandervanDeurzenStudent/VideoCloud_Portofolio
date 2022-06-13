@@ -14,7 +14,7 @@ Docker images
 ![DockerImages](https://user-images.githubusercontent.com/73832880/171404264-3d343cc3-ab7a-4165-958b-0b5650dff166.JPG)
 
 
-My Backend, Frontend and database are running in docker containers. This is configurated by a .yaml file as seen below.
+My Backend, Frontend and database are running in docker containers. This is configured by a .yaml file as seen below.
 
 docker-compose.yaml
 
