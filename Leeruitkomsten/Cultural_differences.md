@@ -11,8 +11,9 @@ As a software engineer you will meet all types of different people all over the 
 https://www.livescience.com/
 
 #### How does culture affect Businesses?
-Most businesses try to improve their image to all cultures and groups around the world to reach more possible customers and come over as user-friendly as possible. Take pride month as an example.  
+Most businesses try to improve their image to all cultures and groups around the world to reach more possible customers and come over as user-friendly as possible. 
 
 
-TICT
+
+With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.
 ![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
