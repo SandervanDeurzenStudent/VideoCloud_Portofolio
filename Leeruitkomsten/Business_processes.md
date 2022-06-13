@@ -8,7 +8,7 @@ Business processes needed for the success of your software development project (
 
 
 ### 7.1. What is an business process?
-><i>A business process is defined as a collection of business tasks and activities that when performed by people or systems in a structured course, produce an outcome that contributes to the business goals</i>
+><i>"A business process is defined as a collection of business tasks and activities that when performed by people or systems in a structured course, produce an outcome that contributes to the business goals"</i>
  
 [www.processeology.com](https://blog.processology.net/what-is-a-business-process#what-is-a-business-process)
  
