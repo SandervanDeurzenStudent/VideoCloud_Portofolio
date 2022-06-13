@@ -34,7 +34,7 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 
 ##  1. web application
 
-[WebApplication](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/WebApplication.md)
+[WebApplication Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/WebApplication.md)
 
  ## 2. Software quality
 [Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Software_Quality.md)
@@ -51,6 +51,7 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 
 ## 5. Ethics and Cultural differences
 [5.1 Ethics Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics.md)
+
 [5.2 Cultural Differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Cultural_differences.md)
 
 
