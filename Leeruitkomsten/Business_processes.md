@@ -1,9 +1,10 @@
-**_Clarification:
-Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
+**Clarification:**
+
+**Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
 Related:
 Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them). 
 or
-Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
+Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).**
 
 
 ### 7.1. What is an business process?
