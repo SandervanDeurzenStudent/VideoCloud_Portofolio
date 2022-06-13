@@ -57,11 +57,11 @@ Postman users api call
 ![musics_postman](https://user-images.githubusercontent.com/73832880/171807830-681119d0-6392-4341-b122-77cfcf7f34c1.JPG)
 
  ## 2. Software quality
-[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/new/main/Leeruitkomsten/software_quality.md)
+[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/new/main/Leeruitkomsten/Software_Quality.md)
 
 ## 3. Agile Method
 
-[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/new/main/Leeruitkomsten/agile_methode.md)
+[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/new/main/Leeruitkomsten/Agile_Method.md)
 
 ## 4. CI/CD
 
