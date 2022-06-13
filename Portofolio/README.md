@@ -173,25 +173,8 @@ Take into account:
 Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures; _**
 
 [Ethics Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics.md)
+[Cultural Differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Cultural_differences.md)
 
-### 5.2. Cultural differences
-
-For the subject of cultural differences I have done some research about what culture is and what well-known aspects on cultural differences are. I have also written about my personal experiences with cultural differences. This product helps prove my proficiency at this learning outcome.
-
-
-As a software engineer you will meet all types of different people all over the world with all different types of different cultural standarts. This can lead to conflicts between you and the people you are working with/for. It is therefore important to be aware of these differences so that these intercultural collaborations may proceed smoothly.
-
-#### what is culture?
-
-> Culture is the characteristics and knowledge of a particular group of people, encompassing language, religion, cuisine, social habits, music and arts.
-https://www.livescience.com/
-
-#### How does culture affect Businesses?
-Most businesses try to improve their image to all cultures and groups around the world to reach more possible customers and come over as user-friendly as possible. Take pride month as an example.  
-
-
-TICT
-![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
 
 
 ##  6. Requirements and Design
