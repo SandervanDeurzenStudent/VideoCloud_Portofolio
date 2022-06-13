@@ -59,17 +59,7 @@ In this project, I want to create an online platform where users can listen to m
 
 [7. Business processes](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Business_processes)
 
-## 8. Professional
-
-**_Clarification:_**
-
-**_Professional manner:_**
-
-**_You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
-You choose and substantiate solutions for a given problem. _**
-
-
-### 1. Research documents
+### Research documents
 
 Here below you can find the links to my research documents.
 
@@ -93,7 +83,7 @@ Group Project:
 
 [GP-backend](https://github.com/RensvGemert/S3-GP-Backend)
 
-### 2. Git flow
+### Git flow
 
 In my project I use the git flow in my source control. The workflow is great for a release-based software workflow.
 
