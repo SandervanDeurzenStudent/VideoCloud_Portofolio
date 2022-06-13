@@ -1,6 +1,6 @@
-**_Clarification:
+**Clarification:
 Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
-_**
+**
 
 ### 1. docker
 Docker allows developers to make lightweight containers of their application that can be run virtually anywhere. I use a Github workflow package called Docker Publish which automaticly creates images on pushes to master. 
