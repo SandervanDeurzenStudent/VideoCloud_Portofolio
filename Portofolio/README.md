@@ -102,14 +102,8 @@ Business processes needed for the success of your software development project (
 **_You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
 You choose and substantiate solutions for a given problem. _**
 
-### 1. trelloboard
-I chose to make a trelloboard to keep track of al my progression this sprint in my user stories. Every sprint the trelloboard gets updated.
 
-Trelloboard
-
-![Trello_individidueel](https://user-images.githubusercontent.com/73832880/171808826-3bcf451c-cc34-4b5f-adbe-5de2793dda6c.JPG)
-
-### 2. Research documents
+### 1. Research documents
 
 Here below you can find the links to my research documents.
 
@@ -133,7 +127,7 @@ Group Project:
 
 [GP-backend](https://github.com/RensvGemert/S3-GP-Backend)
 
-### 3. Git flow
+### 2. Git flow
 
 In my project I use the git flow in my source control. The workflow is great for a release-based software workflow.
 
