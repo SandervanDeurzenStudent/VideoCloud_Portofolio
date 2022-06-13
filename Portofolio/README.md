@@ -70,14 +70,8 @@ Postman users api call
 
 
 ## 5. Ethics and Cultural differences
-
-**_Clarifications:
-Recognize:  Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
-Take into account:
-Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures; _**
-
-[Ethics Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics.md)
-[Cultural Differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Cultural_differences.md)
+[5.1 Ethics Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics.md)
+[5.2 Cultural Differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Cultural_differences.md)
 
 
 
