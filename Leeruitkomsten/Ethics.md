@@ -10,3 +10,7 @@ As a software engineer you need to be aware of the different ethical aspects, pr
 
 ### How do you know that your ethical considerations match with those of other software engineers?
 In order to make sure that your ethical considerations match with those of other software engineers like your colleagues, it is advisable to discuss these considerations when starting development of a new software project, as well as when welcoming a new member to the team. Good communication is key, ask your colleagues about their views on the subject and which ethical considerations they find important. It is also a good idea to monitor developments in the field by reading articles (on the internet) and attending conferences about software development.
+
+
+<i>Code of Ethics pyramid by [Researchgate](www.researchgate.net)</i>
+![codeofethics](https://user-images.githubusercontent.com/73832880/173315880-2173f830-5f21-4711-b70f-25cd377a99b8.JPG)
