@@ -61,7 +61,7 @@ Postman users api call
 
 ## 3. Agile Method
 
-[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/new/main/Leeruitkomsten/agile.md)
+[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/new/main/Leeruitkomsten/agile_methode.md)
 
 ## 4. CI/CD
 
