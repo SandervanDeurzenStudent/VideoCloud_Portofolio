@@ -19,3 +19,15 @@ It's a good idea to discuss ethical considerations when starting a new software 
 
 <i>Code of Ethics pyramid by [Researchgate](www.researchgate.net)</i>
 ![codeofethics](https://user-images.githubusercontent.com/73832880/173315880-2173f830-5f21-4711-b70f-25cd377a99b8.JPG)
+
+### 5.2. Cultural differences
+
+As a software engineer you will meet all types of different people all over the world with all different types of different cultural standarts. This can lead to conflicts between you and the people you are working with/for. It is therefore important to be aware of these differences so that these intercultural collaborations may proceed smoothly.
+
+#### what is culture?
+
+> Culture is the characteristics and knowledge of a particular group of people, encompassing language, religion, cuisine, social habits, music and arts.
+https://www.livescience.com/
+
+#### How does culture affect Businesses?
+Most businesses try to improve their image to all cultures and groups around the world to reach more possible customers and come over as user-friendly as possible. 
