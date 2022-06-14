@@ -18,4 +18,16 @@ Here is an example of a process of making a customer for a website that I am wor
 
 ![businessprocess](https://user-images.githubusercontent.com/73832880/173385358-6124a6c5-0317-4f11-a8ff-cb24ba8c7bd8.JPG)
 
+### What are the core processes in software development?
 
+The planning and analysis of requirements is the first step in software development. Documenting the criteria and schedule in a structured way is one of the next tasks. Following the completion of the documentation, the application is designed and prototyped, followed by the real development process. Testing and deployment are critical stages that take place either during the development cycle or at the end of each module.
+
+![business_processes](https://user-images.githubusercontent.com/73832880/173523746-f34b6b9e-4bed-4ac7-86e7-9d52bf15c63b.JPG)
+
+
+<b> sources: </b>
+
+<i> [educative.io](https://www.educative.io/)
+ [xbsoftware](https://xbsoftware.com/blog/business-process-management-in-software-development/)
+ 
+ 
