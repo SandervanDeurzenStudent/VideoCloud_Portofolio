@@ -9,10 +9,6 @@ Ethics are important in software engineering because the software that an engine
 ### As a software engineer, how can you address ethical issues in your work?
 As a software engineer you need to be aware of the different ethical aspects, principles, and practices within the field. You should ensure that your software meets accessibility standards, that it respects a user's privacy, that it is secure, and all the other aspects as mentioned earlier in this document. In order to achieve this you have to critically evaluate your software design in all stages of its development, starting off with an ethically sound design and adjust it when necessary. Test and review your software frequently to see if it still meets your ethical requirements. Request user feedback and see if their needs are being met, and collaborate with them to improve your software.
 
-
-With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.
-![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
-
 ### How do you know your ethical considerations are in line with those of other software engineers?
 It's a good idea to discuss ethical considerations when starting a new software project, as well as when welcoming a new member to the team, to ensure that your ethical considerations align with those of other software engineers like your colleagues. Ask your coworkers about their thoughts on the subject and which ethical aspects are most important to them. A good way to stay up-to-date is to read articles (on the internet) and attend conferences about software development.
 
@@ -28,6 +24,9 @@ As a software engineer you will meet all types of different people all over the 
 
 > Culture is the characteristics and knowledge of a particular group of people, encompassing language, religion, cuisine, social habits, music and arts.
 https://www.livescience.com/
+
+With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.
+![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
 
 #### How does culture affect Businesses?
 Most businesses try to improve their image to all cultures and groups around the world to reach more possible customers and come over as user-friendly as possible. 
