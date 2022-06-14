@@ -31,7 +31,7 @@ With the help of the TICT tool, my project-group and I have brainstormed about t
 #### How does culture affect Businesses?
 >It's important to note that culture affects nearly all aspects of business communication. Some of the most noticeable influences involve the formality and mediums used in business communications, but a business's organizational culture can shape and mold nearly every aspect of its communication.
 
-[ahaworldcampus](https://www.ahaworldcampus.com/b/how-does-culture-affect-business-communication)
- 
+<i> By [ahaworldcampus](https://www.ahaworldcampus.com/b/how-does-culture-affect-business-communication)</i>
+  
 Even though I don't got much experience working with other cultures in my group, I understand that communication is one of the most important aspects in differences When working with people with other cultures in groups.
  
