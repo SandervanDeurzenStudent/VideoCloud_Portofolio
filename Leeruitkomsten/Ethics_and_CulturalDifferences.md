@@ -16,9 +16,21 @@ It's a good idea to discuss ethical considerations when starting a new software 
 <i>Code of Ethics pyramid by [Researchgate](www.researchgate.net)</i>
 ![codeofethics](https://user-images.githubusercontent.com/73832880/173315880-2173f830-5f21-4711-b70f-25cd377a99b8.JPG)
 
+### What is my experience with ethics in my projects?
+
+As we began developing our group project for World of Content, we as a team have taken into account several of the ethical aspects discussed above. The application is designed and developed to help fulfil the need that a lot of people have to meet with others that have similar interests and organize events where activities related to these interests can be performed. 
+
+As an example, In the group project we are working on, we made sure the password of the user data gets hashed as soon as he enters the submit button. This is because we tried to be as safe and secure with the user data as possible. 
+On another project I have made in the 2nd semester, we got an issue with storing confidential user data pictures on a 3rd party website(a storage place that we have no management over). To made sure it satisfies tot the clients ethical needs, we made sure to store it locally.
+
+
 ## 5.2. Cultural differences
 
 As a software engineer you will meet all types of different people all over the world with all different types of different cultural standarts. This can lead to conflicts between you and the people you are working with/for. It is therefore important to be aware of these differences so that these intercultural collaborations may proceed smoothly.
+
+
+During the course of my life I have had very few to none encounters with people from different countries and cultures. Some of these interactions have been in a personal setting while others involved collaboration in an educational setting. I have done research about what cultural differences are and how it effect businesses that I would like to share below.
+
 
 ### what is culture?
 
@@ -33,5 +45,8 @@ With the help of the TICT tool, my project-group and I have brainstormed about t
 
 <i> By [ahaworldcampus](https://www.ahaworldcampus.com/b/how-does-culture-affect-business-communication)</i>
   
-Even though I don't got much experience working with other cultures in my group, I understand that communication is one of the most important aspects in differences When working with people with other cultures in groups.
+  ### My experience with cultural differences in project groups.
+  
+Even though I don't got much experience working with other cultures in my group, I understand that communication is one of the most important aspects in differences When working with people with other cultures in groups. I enjoy working with less talkative people since I am a particularly talkative person, I like to stimulate other people to keep going and talk to people who are shy or not talkative. I found out about myself that I like to take the lead in project because of my initiative in projects. I have no problem with people who are less initiative in projects because I get the role to stimulate them.
+  
  
