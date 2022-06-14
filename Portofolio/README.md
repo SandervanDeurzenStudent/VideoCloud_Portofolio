@@ -57,7 +57,7 @@ In this project, I want to create an online platform where users can listen to m
 
 ## 7. Business processes
 
-[7. Business processes](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Business_processes)
+[7. Business processes](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Business_processes.md)
 
 ### Research documents
 
