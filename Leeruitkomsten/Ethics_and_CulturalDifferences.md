@@ -29,4 +29,9 @@ With the help of the TICT tool, my project-group and I have brainstormed about t
 ![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
 
 #### How does culture affect Businesses?
-Most businesses try to improve their image to all cultures and groups around the world to reach more possible customers and come over as user-friendly as possible. 
+>It's important to note that culture affects nearly all aspects of business communication. Some of the most noticeable influences involve the formality and mediums used in business communications, but a business's organizational culture can shape and mold nearly every aspect of its communication.
+
+[ahaworldcampus](https://www.ahaworldcampus.com/b/how-does-culture-affect-business-communication)
+ 
+Even though I don't got much experience working with other cultures in my group, I understand that communication is one of the most important aspects in differences When working with people with other cultures in groups.
+ 
