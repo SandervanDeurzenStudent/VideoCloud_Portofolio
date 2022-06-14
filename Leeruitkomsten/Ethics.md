@@ -8,6 +8,10 @@ Ethics are important in software engineering because the software that an engine
 ### What do you have to do as a software engineer to address ethical aspects in your work?
 As a software engineer you need to be aware of the different ethical aspects, principles, and practices within the field. You should ensure that your software meets accessibility standards, that it respects a user's privacy, that it is secure, and all the other aspects as mentioned earlier in this document. In order to achieve this you have to critically evaluate your software design in all stages of its development, starting off with an ethically sound design and adjust it when necessary. Test and review your software frequently to see if it still meets your ethical requirements. Request user feedback and see if their needs are being met, and collaborate with them to improve your software.
 
+
+With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.
+![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
+
 ### How do you know that your ethical considerations match with those of other software engineers?
 In order to make sure that your ethical considerations match with those of other software engineers like your colleagues, it is advisable to discuss these considerations when starting development of a new software project, as well as when welcoming a new member to the team. Good communication is key, ask your colleagues about their views on the subject and which ethical considerations they find important. It is also a good idea to monitor developments in the field by reading articles (on the internet) and attending conferences about software development.
 
