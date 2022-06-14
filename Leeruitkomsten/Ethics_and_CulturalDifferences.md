@@ -6,8 +6,10 @@ To accomplish this, you have to critically evaluate your software design through
 ### Why are ethics important in software engineering?
 Ethics are important in software engineering because the software that an engineer writes has the potential to be used by large groups of people and might have a significant impact on their lives. As a software engineer you have to be aware and mindful of these possible consequences as you envision, develop and deploy your software. Not all consequences can be foreseen but you should feel responsible for attempting to ensure that your software does not cause harmful effects but instead benefits the people who use it.
 
-With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.
+
+<i>With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.</i>
 ![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
+
 
 ### As a software engineer, how can you address ethical issues in your work?
 As a software engineer you need to be aware of the different ethical aspects, principles, and practices within the field. You should ensure that your software meets accessibility standards, that it respects a user's privacy, that it is secure, and all the other aspects as mentioned earlier in this document. In order to achieve this you have to critically evaluate your software design in all stages of its development, starting off with an ethically sound design and adjust it when necessary. Test and review your software frequently to see if it still meets your ethical requirements. Request user feedback and see if their needs are being met, and collaborate with them to improve your software.
