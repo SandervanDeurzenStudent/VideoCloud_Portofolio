@@ -59,11 +59,11 @@ In this project, I want to create an online platform where users can listen to m
 
 Here below you can find the links to my research documents.
 
-[research_XSS](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP-Research_XSS.docx)
+[research_XSS (Dutch)](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_IP-Research_XSS.docx)
 
 [research H2 Databases](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_research_h2database.docx)
 
-[mini research: APi's](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_research_API.docx)
+[mini research: APi's (Dutch)](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Research/S3_research_API.docx)
 
 Here below you can find the links to my Git repositories.
 
