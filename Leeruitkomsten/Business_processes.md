@@ -17,3 +17,5 @@ Business processes needed for the success of your software development project (
 Here is an example of a process of making a customer for a website that I am working on. The diagram I made is split up in different characters with every character having each their own role. The diagram shows not only the best outcome, but also the other possibilities at some cases. That is what it makes it a progress. 
 
 ![businessprocess](https://user-images.githubusercontent.com/73832880/173385358-6124a6c5-0317-4f11-a8ff-cb24ba8c7bd8.JPG)
+
+
