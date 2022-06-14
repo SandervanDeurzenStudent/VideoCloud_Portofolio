@@ -16,11 +16,11 @@ It's a good idea to discuss ethical considerations when starting a new software 
 <i>Code of Ethics pyramid by [Researchgate](www.researchgate.net)</i>
 ![codeofethics](https://user-images.githubusercontent.com/73832880/173315880-2173f830-5f21-4711-b70f-25cd377a99b8.JPG)
 
-### 5.2. Cultural differences
+## 5.2. Cultural differences
 
 As a software engineer you will meet all types of different people all over the world with all different types of different cultural standarts. This can lead to conflicts between you and the people you are working with/for. It is therefore important to be aware of these differences so that these intercultural collaborations may proceed smoothly.
 
-#### what is culture?
+### what is culture?
 
 > Culture is the characteristics and knowledge of a particular group of people, encompassing language, religion, cuisine, social habits, music and arts.
 https://www.livescience.com/
@@ -28,7 +28,7 @@ https://www.livescience.com/
 With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.
 ![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
 
-#### How does culture affect Businesses?
+### How does culture affect Businesses?
 >It's important to note that culture affects nearly all aspects of business communication. Some of the most noticeable influences involve the formality and mediums used in business communications, but a business's organizational culture can shape and mold nearly every aspect of its communication.
 
 <i> By [ahaworldcampus](https://www.ahaworldcampus.com/b/how-does-culture-affect-business-communication)</i>
