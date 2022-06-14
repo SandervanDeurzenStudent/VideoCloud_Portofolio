@@ -1,16 +1,9 @@
-# VideoCloud
 
-<h1 id="top">------------------------ PORTOFOLIO --------------------------</h2>
- 
+ ![TecYJer3](https://user-images.githubusercontent.com/73832880/173527142-127a627b-bedc-4681-8622-b8cede20254b.gif)
 
 # introduction
 ### Individual project
-In dit project wil ik een online platform maken waarin gebruikers media van andere gebruikers kunnen beluisteren en zelf ook media kunnen oploaden. Deze media zal alleen muziek zijn. Het doel is om hiermee aan te tonen dat ik kan laten zien dat ik begrijp hoe een JavaScript front-end werkt, dat ik dit kan combineren met een OO gebaseerde back-end taal en dat de software gedistribueerd is zodat het een grote hoeveelheid aan gebruikers tevreden kan stellen. Om dit proces voor de gebruiker zo snel en efficiënt mogelijk te maken zal er gebruik worden gemaakt van asynchrone communicatie om te voorkomen dat een gebruiker lang moet wachten. In combinatie van een intuïtieve UX moet dit ervoor zorgen dat de gebruikservaring van de website zo optimaal mogelijk is. De data van de gebruiker zal opgeslagen worden in een relationele database. Aangezien dit gevoelige informatie is zal er gekeken moeten worden naar verschillende beveiligingsopties om de data van de gebruiker te kunnen beschermen.
-
-### Group project
-
-
-
+In this project, I want to create an online platform where users can listen to media from other users and upload media themselves. This media will be music only. The goal is to use this to demonstrate that I can show that I understand how a JavaScript front-end works, that I can combine this with an OO based back-end language and that the software is distributed so that it can satisfy a large amount of users. To make this process as fast and efficient as possible for the user, asynchronous communication will be used to avoid a long wait for a user. Combined with an intuitive UX, this should ensure that the user experience of the website is as optimal as possible. The user's data will be stored in a relational database. Since this is sensitive information, various security options will need to be considered to protect the user's data. 
 
 # Learning outcomes
 
@@ -50,60 +43,19 @@ In dit project wil ik een online platform maken waarin gebruikers media van ande
 
 
 ## 5. Ethics and Cultural differences
-[5.1 Ethics Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics.md)
-
-[5.2 Cultural Differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Cultural_differences.md)
+[Ethics and Cultural differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics_and_CulturalDifferences.md)
 
 
 
 ##  6. Requirements and Design
 
-**_Clarification:_**
-**_Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance._**
-
-
-
-After our first interview with our stakeholder World of Content,  we had an understanding of what the client expects from us. Our group started writing user stories connected to the requirements. We prioritized the user stories by importance. We made concepts, models and designs before we started the development. With every comeback every 3 weeks, we took our time to ask more questions, review our user stories and plans for the future, and noticably tweaked our planning and notes in accordance to the conversations we held with World of Content.
-Requirement documents
-
-User stories Group Project
-
-![Piada_userstories](https://user-images.githubusercontent.com/73832880/171812203-60237c05-a8e1-4d1a-b072-580061738972.jpg)
-
-Database model Group Project
-
-![piada_database](https://user-images.githubusercontent.com/73832880/171812105-82ee2a77-871a-4206-941a-45bd50861a08.jpg)
-
-
-
-![RequirementsJPG](https://user-images.githubusercontent.com/73832880/171811065-34c3a98c-74d3-46a5-b4df-24190963b0e2.JPG)
-
-
-
-
-
+[6. Requirements and Designs](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Requirements_and_designs.md)
 
 ## 7. Business processes
 
-**_Clarification:
-Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
-Related:
-Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them). 
-or
-Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
+[7. Business processes](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Business_processes.md)
 
-
-## 8. Professional
-
-**_Clarification:_**
-
-**_Professional manner:_**
-
-**_You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
-You choose and substantiate solutions for a given problem. _**
-
-
-### 1. Research documents
+### Research documents
 
 Here below you can find the links to my research documents.
 
@@ -127,7 +79,7 @@ Group Project:
 
 [GP-backend](https://github.com/RensvGemert/S3-GP-Backend)
 
-### 2. Git flow
+### Git flow
 
 In my project I use the git flow in my source control. The workflow is great for a release-based software workflow.
 
