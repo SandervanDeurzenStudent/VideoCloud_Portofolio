@@ -43,9 +43,7 @@ In this project, I want to create an online platform where users can listen to m
 
 
 ## 5. Ethics and Cultural differences
-[5.1 Ethics Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics.md)
-
-[5.2 Cultural Differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Cultural_differences.md)
+[Ethics and Cultural differences Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Ethics_and_CulturalDifferences.md)
 
 
 
