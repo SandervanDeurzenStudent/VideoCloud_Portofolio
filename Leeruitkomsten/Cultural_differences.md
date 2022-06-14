@@ -15,5 +15,3 @@ Most businesses try to improve their image to all cultures and groups around the
 
 
 
-With the help of the TICT tool, my project-group and I have brainstormed about the possibilities on applying certain ethical subjects within our project.
-![culural_differences](https://user-images.githubusercontent.com/73832880/172370513-34897d4c-953c-47cb-b86f-c2b6182bcc1a.jpg)
