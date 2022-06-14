@@ -29,7 +29,7 @@ In this project, I want to create an online platform where users can listen to m
 [WebApplication Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/WebApplication.md)
 
  ## 2. Software quality
-[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Software_Quality.md)
+[Agile Methode Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Software_quality.md)
 
 ## 3. Agile Method
 
