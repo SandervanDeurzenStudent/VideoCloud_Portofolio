@@ -24,7 +24,7 @@ In this project, I want to create an online platform where users can listen to m
 8. You act in a professional manner during software development and learning.
 
 
-##  1. web application
+##  1. Web application
 
 [WebApplication Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/WebApplication.md)
 
