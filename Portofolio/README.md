@@ -2,7 +2,6 @@
  ![TecYJer3](https://user-images.githubusercontent.com/73832880/173527142-127a627b-bedc-4681-8622-b8cede20254b.gif)
 
 # introduction
-### Individual project
 In this project, I want to create an online platform where users can listen to media from other users and upload media themselves. This media will be music only. The goal is to use this to demonstrate that I can show that I understand how a JavaScript front-end works, that I can combine this with an OO based back-end language and that the software is distributed so that it can satisfy a large amount of users. To make this process as fast and efficient as possible for the user, asynchronous communication will be used to avoid a long wait for a user. Combined with an intuitive UX, this should ensure that the user experience of the website is as optimal as possible. The user's data will be stored in a relational database. Since this is sensitive information, various security options will need to be considered to protect the user's data. 
 
 # Learning outcomes
