@@ -38,7 +38,7 @@ The following are disadvantages of agile:
 ## Difference between the scrum method and waterfall method.
 
 One of the most important differences between Waterfall and Agile is that Agile is an incremental and iterative approach; Waterfall is a linear and sequential approach. In agile there is more easily space for expansion.
-some other mayor differences between agile and waterfall go as follows(according to [project_managment.com](https://project-management.com/agile-vs-waterfall/#differences):
+some other mayor differences between agile and waterfall go as follows(according to [project_managment.com])(https://project-management.com/agile-vs-waterfall/#differences):
 
 - Agile separates a project into sprints; Waterfall divides a project into phases.
 - Agile helps complete many small projects; Waterfall helps complete one single project.
