@@ -30,9 +30,13 @@ On another project I have made in the 2nd semester, we got an issue with storing
 
 <i>
 Sources I used for research:
+  
 [infoq.com](https://www.infoq.com/articles/ethical-software-engineer/)
+  
 [nerdynaut](https://www.nerdynaut.com/importance-of-ethics-for-a-software-engineer)
+  
 [ethicassage](https://www.ethicssage.com/2019/06/developing-a-code-of-ethics-for-software-engineers.html)
+  
 </i>
 
 
