@@ -24,7 +24,7 @@ It's a good idea to discuss ethical considerations when starting a new software 
 
 ### What is my experience with ethics in my projects?
 
-As we began developing our group project for World of Content, we as a team have taken into account several of the ethical aspects discussed above. The application is designed and developed to help fulfil the need that a lot of people have to meet with others that have similar interests and organize events where activities related to these interests can be performed. 
+As we began developing our group project for World of Content, we as a team have taken into account several of the ethical aspects discussed in the topics above. The application is designed and developed to help fulfil the need that a lot of people have to meet with others that have similar interests and organize events where activities related to these interests can be performed. 
 
 As an example, In the group project we are working on, we made sure the password of the user data gets hashed as soon as he enters the submit button. This is because we tried to be as safe and secure with the user data as possible. 
 On another project I have made in the 2nd semester, we got an issue with storing confidential user data pictures on a 3rd party website(a storage place that we have no management over). To made sure it satisfies tot the clients ethical needs, we made sure to store it locally.
