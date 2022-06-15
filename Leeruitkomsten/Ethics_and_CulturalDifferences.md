@@ -64,5 +64,7 @@ https://www.livescience.com/
   ### My experience with cultural differences in project groups.
   
 Even though I don't got much experience working with other cultures in my group, I understand that communication is one of the most important aspects in differences When working with people with other cultures in groups. I enjoy working with less talkative people since I am a particularly talkative person, I like to stimulate other people to keep going and talk to people who are shy or not talkative. I found out about myself that I like to take the lead in project because of my initiative in projects. I have no problem with people who are less initiative in projects because I get the role to stimulate them.
+
+As an example, In the first semester I worked on my first group project with people I did not know. It was all online because of corona in that time. Nobody in the group wanted to take the first step and they seemed to had no problem with it also. Because of my personality I took the initiative in our project en talked to everyone so that we can finally got started with our project. It irritated me a bit in the beginnen but at the end I can say that I am proud of myself that I took that first step in that project.
   
  
