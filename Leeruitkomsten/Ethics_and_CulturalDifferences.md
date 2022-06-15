@@ -18,7 +18,8 @@ As a software engineer you need to be aware of the different ethical aspects, pr
 It's a good idea to discuss ethical considerations when starting a new software project, as well as when welcoming a new member to the team, to ensure that your ethical considerations align with those of other software engineers like your colleagues. Ask your coworkers about their thoughts on the subject and which ethical aspects are most important to them. A good way to stay up-to-date is to read articles (on the internet) and attend conferences about software development.
 
 
-<i>Code of Ethics pyramid by [Researchgate](www.researchgate.net)</i>
+<i>Code of Ethics pyramid uploaded by user Peter Oriogun on the topic "Teaching and Assessing Software Engineering Ethics in the 21st Century: Case Study from American University of Nigeria": [Researchgate](https://www.researchgate.net/publication/259464186_Teaching_and_Assessing_Software_Engineering_Ethics_in_the_21st_Century_Case_Study_from_American_University_of_Nigeria)</i>
+
 ![codeofethics](https://user-images.githubusercontent.com/73832880/173315880-2173f830-5f21-4711-b70f-25cd377a99b8.JPG)
 
 ### What is my experience with ethics in my projects?
