@@ -28,6 +28,13 @@ As we began developing our group project for World of Content, we as a team have
 As an example, In the group project we are working on, we made sure the password of the user data gets hashed as soon as he enters the submit button. This is because we tried to be as safe and secure with the user data as possible. 
 On another project I have made in the 2nd semester, we got an issue with storing confidential user data pictures on a 3rd party website(a storage place that we have no management over). To made sure it satisfies tot the clients ethical needs, we made sure to store it locally.
 
+<i>
+Sources I used for research:
+[infoq.com](https://www.infoq.com/articles/ethical-software-engineer/)
+[nerdynaut](https://www.nerdynaut.com/importance-of-ethics-for-a-software-engineer)
+[ethicassage](https://www.ethicssage.com/2019/06/developing-a-code-of-ethics-for-software-engineers.html)
+</i>
+
 
 ## 5.2. Cultural differences
 
