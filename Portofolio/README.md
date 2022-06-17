@@ -48,11 +48,11 @@ In this project, I want to create an online platform where users can listen to m
 
 ##  6. Requirements and Design
 
-[6. Requirements and Designs](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Requirements_and_designs.md)
+[6. Requirements and Designs Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Requirements_and_designs.md)
 
 ## 7. Business processes
 
-[7. Business processes](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Business_processes.md)
+[7. Business processes Document](https://github.com/SandervanDeurzenStudent/VideoCloud_Portofolio/blob/main/Leeruitkomsten/Business_processes.md)
 
 ### Research documents
 
